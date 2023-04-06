@@ -7,14 +7,13 @@ Many of the repo's here will be to support posts on my blog. If you're intereste
 
 ## Recent blog posts :pencil:
 
+ - [Resolving the AWS CloudWatch Logs Role ARN Error](https://coady.tech/aws-cloudwatch-logs-arn/)
+ - [AWS Amplify Certificate Expiry Woes](https://coady.tech/aws-amplify-certificate-expired/)
  - [Building a Serverless Contact Form with AWS Lambda](https://coady.tech/aws-serverless-contact-form/)
  - [AWS 101 - Networking Basics](https://coady.tech/aws-101-networking/)
- - [Resolving the AWS Amplify Certificate Authority Authentication error](https://coady.tech/amplify-cloudflare-caa-error/)
- - [How to Enable PowerShell Transcript Logging](https://coady.tech/setup-powershell-transcript-logging/)
 
 ## Social :iphone:
 
- - :necktie: [LinkedIn](https://www.linkedin.com/in/willcoady/)
  - :bird: [Twitter](https://twitter.com/CoadyTech)
  - :computer: [Blog](https://coady.tech/)
  - :email: will {at} coady.tech
