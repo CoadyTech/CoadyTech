@@ -7,10 +7,10 @@ Many of the repo's here will be to support posts on my blog. If you're intereste
 
 ## Recent blog posts :pencil:
 
+ - [Stop using cron! Systemd Timers Explained](https://coady.tech/systemd-timer-vs-cron/)
  - [Resolving the AWS CloudWatch Logs Role ARN Error](https://coady.tech/aws-cloudwatch-logs-arn/)
  - [AWS Amplify Certificate Expiry Woes](https://coady.tech/aws-amplify-certificate-expired/)
  - [Building a Serverless Contact Form with AWS Lambda](https://coady.tech/aws-serverless-contact-form/)
- - [AWS 101 - Networking Basics](https://coady.tech/aws-101-networking/)
 
 ## Social :iphone:
 
